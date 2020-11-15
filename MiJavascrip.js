@@ -1,5 +1,5 @@
-var menor = 9999999;
-let array = [7,1,2,4,69,420];
+var mennor = 9999999;
+let array = [7,1,2,4,69,420,6];
 
 function searchMenor() -> Int {
 	for(i; i < array.count; i++) {
@@ -7,7 +7,7 @@ function searchMenor() -> Int {
 			menor = array[i];
 		}
 	}
-	return menor;
+	return menor+1;
 }
 
 
