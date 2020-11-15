@@ -11,5 +11,30 @@ function searchMenor() -> Int {
 	return menoor+2;
 }
 
-
+//Tal vez no esté bueno buscar menores
 searchMenor();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//No conflicts here hehe
