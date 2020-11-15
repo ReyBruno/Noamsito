@@ -12,4 +12,31 @@ function searchMenor() -> Int {
 }
 
 //Hola Rey :)
+//Tal vez no esté bueno buscar menores -> Si esta bueno buscar menores y tortas
+>>>>>>> FachaPura
 searchMenor();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//No conflicts here hehe
