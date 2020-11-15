@@ -11,5 +11,5 @@ function searchMenor() -> Int {
 	return menoor+2;
 }
 
-
+//Hola Rey :)
 searchMenor();
