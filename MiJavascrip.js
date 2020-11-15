@@ -11,7 +11,7 @@ function searchMenor() -> Int {
 	return menoor+2;
 }
 
-//Tal vez no esté bueno buscar menores
+//Tal vez no esté bueno buscar menores -> Si esta bueno buscar menores y tortas
 searchMenor();
 
 
