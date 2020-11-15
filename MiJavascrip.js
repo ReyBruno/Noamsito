@@ -1,13 +1,13 @@
-var menor = 9999999;
-let array = [7,1,2,4,69,420];
+var menoor = 9999999;
+let array = [7,1,2,4,69,420,5];
 
 function searchMenor() -> Int {
 	for(i; i < array.count; i++) {
-		if(menor > array[i]) {
-			menor = array[i];
+		if(menoor > array[i]) {
+			menoor = array[i];
 		}
 	}
-	return menor;
+	return menoor+2;
 }
 
 
