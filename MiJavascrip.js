@@ -12,9 +12,9 @@ function searchMenor() -> Int {
 }
 
 //Hola Rey :)
-//Tal vez no esté bueno buscar menores -> Si esta bueno buscar menores y tortas
->>>>>>> FachaPura
-searchMenor();
+// Noam, fachero, buenas! Aca armando el tuto! B)
+// Tal vez no esté bueno buscar menores -> Si esta bueno buscar menores y tortas
+searchMenor()
 
 
 
